@@ -30,6 +30,10 @@ button{
     background-color: white;
 }
 
+button:active {
+    transform: scale(0.97);
+}
+
 #calculatorInput {
     height: 120px;
     font-size: 40px;
